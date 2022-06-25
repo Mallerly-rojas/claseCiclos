@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e67ed9ab-17e3-4ac0-b5bf-20f55f98f700" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TallerDeCiclos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TallerDeCiclos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TallerDeCiclos">
     <configuration name="Numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Numeros" />
       <module name="Ciclos" />
@@ -40,8 +41,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TallerDeCiclos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TallerDeCiclos" />
+      <module name="Ciclos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TallerDeCiclos" />
         <item itemvalue="Application.Numeros" />
       </list>
     </recent_temporary>
